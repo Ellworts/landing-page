@@ -3,13 +3,11 @@
 A simple and responsive landing page for **The Metropolitan Museum of Art (The Met)**.
 It provides information about museum locations, hours, exhibitions, and ways to explore online.  
 
+- [DEMO LINK](https://ellworts.github.io/landing-page/)
+
 ## 🛠 Technologies  
 - **HTML** – page structure  
 - **CSS** – styling and layout
-
-  
-- [DEMO LINK](https://ellworts.github.io/landing-page/)
-
 
 ## If you want to run this page locally:
 
