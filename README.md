@@ -14,4 +14,5 @@ It provides information about museum locations, hours, exhibitions, and ways to 
 ```bash
 git clone https://github.com/Ellworts/landing-page.git
 cd landing-page
+npm install
 npm start
