@@ -6,7 +6,8 @@ It provides information about museum locations, hours, exhibitions, and ways to 
 ## 🛠 Technologies  
 - **HTML** – page structure  
 - **CSS** – styling and layout
-- 
+
+  
 - [DEMO LINK](https://ellworts.github.io/landing-page/)
 
 
